@@ -1,11 +1,19 @@
 {
   "name": "provajs",
   "version": "0.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nicolo ormelli",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoloOrmelli/provaJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicoloOrmelli/provaJS/issues"
+  },
+  "homepage": "https://github.com/NicoloOrmelli/provaJS#readme",
+  "description": ""
 }
